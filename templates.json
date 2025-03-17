@@ -15,7 +15,13 @@
             "repo": "laravel/livewire-starter-kit"
         }
     ],
-    "community": [{
+    "community": [
+        {
+            "title": "MoonShine",
+            "package": "moonshine/app",
+            "repo": "moonshine/app",
+        }
+        {
             "title": "Statamic",
             "package": "statamic/statamic",
             "repo": "statamic/statamic"
